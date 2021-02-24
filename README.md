@@ -11,10 +11,12 @@ To install python goto: https://www.python.org/downloads/</li>
 Download and install<br>
 The latest version of python comes with pip, so no need to download pip.</li>
 <li>
-Python Pillow & XLRD Library<br>
+Python Pillow, Openpyxl & XLRD Library<br>
 To install PIL, execute this in terminal/cmd : pip install Pillow
 <br>
 To read the csv or excel file in terminal/cmd : pip install xlrd
+<br>
+To read the csv or excel file in terminal/cmd : pip install openpyxl
 </li>
 <li>A certificate image<br>
 Image of said certificate with blank name field [image attribute]</li>

@@ -7,9 +7,9 @@ To install python goto: https://www.python.org/downloads/</li>
 <li>Download and install<br>
 The latest version of python comes with pip, so no need to download pip.</li>
 <li>Python Pillow Library<br>
-To install PIL, execute this in terminal/cmd :
+To install PIL, execute this in terminal/cmd :<br>
 > pip install Pillow</li>
-<li>Xlrd for reading the csv or excel file<br>
+<li>Xlrd for reading the csv or excel file in terminal/cmd :<br>
 > pip install xlrd
 </li>
 <li>A certificate image<br>

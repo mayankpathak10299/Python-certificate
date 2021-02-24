@@ -6,11 +6,12 @@ While hosting or conducting an event, writing certificates to delegates is a fru
 To install python goto: https://www.python.org/downloads/
 **Download and install.**
 The latest version of python comes with pip, so no need to download pip.
-**Python Pillow Library**
+<li>Python Pillow Library<br>
 To install PIL, execute this in terminal/cmd :
-> pip install Pillow
-**A certificate image**
-Image of said certificate with blank name field [image attribute]
+> pip install Pillow</li>
+<li>**A certificate image**
+Image of said certificate with blank name field [image attribute]</li>
+<li>
 **TTF font file**
 A TrueType font file of the font which we will use to print names,or you can use any downloaded font
 </li>

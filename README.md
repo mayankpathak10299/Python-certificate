@@ -14,5 +14,5 @@ Image of said certificate with blank name field [image attribute]</li>
 <li>
 TTF font file<br>
 A TrueType font file of the font which we will use to print names,or you can use any downloaded font
-</li>
+</li><br>
 **Made with ❤ by Mayank Pathak**
